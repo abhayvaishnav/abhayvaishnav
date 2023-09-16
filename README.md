@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abhayvaishnav551@gmail.com**
 
-- 📄 Know about my experiences [Abhay Vaishnav - Resume](https://drive.google.com/file/d/16o10QqweXeEI_-R-aCxTTNLB-2pvOiT4/view?usp=sharing)
+- 📄 Know about my experiences [Abhay Vaishnav - Resume](https://drive.google.com/file/d/1ErU96_QgpV8ZjQInKJs0xEME1zLy3vdI/view?usp=sharing)
 
 ## 🏅 Achievements
 
