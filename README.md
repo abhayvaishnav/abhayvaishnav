@@ -90,6 +90,9 @@
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Dart](https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=#02569B)
+![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=C++&logoColor=#00599C)
+
+
 
 
 
